@@ -1,0 +1,25 @@
+.banner{
+background: #282B33;
+background-size: cover;
+font-family: Arial;
+margin: 0;
+padding: 140px;
+
+}
+.text{
+text-align: center; 
+top: 10%;
+color: white;
+	
+}
+
+.text button {
+  background-color: #FC6E52;
+  color: white;
+  border: 1px solid #fff;
+  padding: 10px 25px;
+  text-align: center;
+  margin: 20px ;
+  border-radius: 8px;
+  
+}
